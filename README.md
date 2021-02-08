@@ -1,1 +1,0 @@
-Hello world! My name is Nursultan! I think that's enough for readme file.
